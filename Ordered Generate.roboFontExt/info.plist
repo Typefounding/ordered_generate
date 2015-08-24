@@ -36,7 +36,7 @@
 	<key>com.robofontmechanic.Mechanic</key>
 	<dict>
 	  <key>repository</key>
-	  <string>Typefounding/ordered_Generate</string>
+	  <string>Typefounding/ordered_generate</string>
 	</dict>
 </dict>
 </plist>
