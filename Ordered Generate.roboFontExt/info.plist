@@ -37,6 +37,8 @@
 	<dict>
 	  <key>repository</key>
 	  <string>Typefounding/ordered_generate</string>
+	  <key>summary</key>
+          <string>Applies an encoding file’s glyph order when generating a font.</string>
 	</dict>
 </dict>
 </plist>
