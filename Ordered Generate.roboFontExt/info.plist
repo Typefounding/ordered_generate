@@ -32,13 +32,13 @@
 	<key>timeStamp</key>
 	<real>1440435065.4167321</real>
 	<key>version</key>
-	<string>1.2</string>
+	<string>1.2.1</string>
 	<key>com.robofontmechanic.Mechanic</key>
 	<dict>
 	  <key>repository</key>
 	  <string>Typefounding/ordered_generate</string>
 	  <key>summary</key>
-          <string>Applies an encoding file’s glyph order when generating a font.</string>
+          <string>Applys an encoding file’s glyph order when generating a font.</string>
 	</dict>
 </dict>
 </plist>
